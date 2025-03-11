@@ -1,0 +1,8 @@
+config:
+  knowledge_base:
+    filepath: "D:\\COMPUTER SCIENCE IN AI\\RAG\\data\\爱因斯坦.txt"
+    max_length: 25
+  embeddings:
+    model: "nomic-embed-text"
+  rag:
+    model: "qwen2.5:7b"
